@@ -67,6 +67,12 @@ ORDER BY
     salary_year_avg DESC
 LIMIT 10;
 ```
+## Top Paying Data Scientist Jobs in 2023
+
+This chart shows the **average yearly salary** for the top 10 paying Data Scientist roles in 2023.
+
+![Top Paying Data Scientist Jobs](Images/average_salary_jobs_black.png)
+
 ## Insights from Top-Paying Remote Data Scientist Roles
 
 - **Very high salary potential:** Remote Data Scientist roles can offer exceptional pay, with top salaries reaching around $550,000 per year, well above typical market averages.
@@ -117,6 +123,11 @@ INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY
     salary_year_avg DESC
 ```
+## Top Skills for Top Data Scientist Roles
+
+This chart shows the **top 10 most frequent skills** required across these high-paying Data Scientist positions.
+
+![Top Skills for Data Scientist Roles](Images/top_skills_black_blue.png)
 ## Analysis of Skills for Top-Paying Data Scientist Roles
 
 - An examination of the top 10 highest-paying Data Scientist positions reveals that certain technical skills are closely associated with higher salaries. **Python** and **SQL** are the most commonly required skills, underscoring their importance for advanced data science work.
